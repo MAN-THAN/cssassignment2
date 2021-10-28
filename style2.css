@@ -1,0 +1,122 @@
+.container{
+    background-image: url(./slack1.jpg);
+    border: 6px solid #1df500;
+    border-style: ridge;
+    ;
+}
+
+
+.box1{
+    border: 6px solid red;
+    border-radius: 20px;
+    height: 100px;
+    width: 300px;
+    display: inline-block;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    position: relative;
+    left: 10px;
+    padding: 5px;
+    line-height:40px;
+}
+.box2{
+    border: 6px solid red;
+    border-radius: 20px;
+    height: 50px;
+    width: 300px;
+    display: inline-block;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    position: relative;
+    left: 8%;
+    top: -40px;
+    padding: 5px;
+    line-height: 40px;
+}
+.box3{
+    border: 6px solid red;
+    border-radius: 20px;
+    height: 100px;
+    width: 300px;
+    display: inline-block;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    position: relative;
+    left: 15%;
+    top: 35px;
+    padding: 5px;
+    line-height:40px;
+}
+.form{
+    border: 6px dashed red;
+    background-color: white;
+    color: red;
+    display: inline-block;
+    height:500px;
+    width: 260px;
+    font-size: 10px;
+    text-align: center;
+    position: relative;
+    top: 40%;
+    left: 40%;
+}
+.circle{
+    border-radius: 50%;
+    border: 5px solid grey;
+    height: 300px;
+    width: 300px;
+    background-color: #20a4ab;
+    text-align: center;
+    display: inline-block;
+    position: absolute;
+    top: 70%;
+    
+    left: 5%;
+    font-style: italic;
+    font-weight: bold;
+
+}   
+.box4{
+    border: 6px solid red;
+    border-radius: 20px;
+    height: 50px;
+    width: 300px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-style: italic;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 40px;
+    position: absolute;
+    top: 130%;
+    left: 20%;
+}
+.box5{
+    border: 2px solid green;
+    border-radius: 10%;
+    height: 200px;
+    width: 250px;
+    display: inline-block;
+    margin: 20px;
+    color: blue;
+    font-size: xx-small;
+    background-color: #03f0fc;
+    font-weight: bold;
+    
+}
+.box{
+   text-align: center;
+   margin-top: 200px;
+   top: 400px;
+}
